@@ -7,6 +7,8 @@ body {width: 100px;
 h1 {
      background-color: black;
     color: white;
-      background-color: purple;
-      color: orange;
+     
      }
+p  { 
+    text-transform: uppercase;
+}
