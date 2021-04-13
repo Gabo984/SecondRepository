@@ -1,4 +1,12 @@
-body {background-color: black;
+body {width: 100px;
+    margin: 0;
+    text-align: center;
     
 
 }
+h1 {
+     background-color: black;
+    color: white;
+      background-color: purple;
+      color: orange;
+     }
